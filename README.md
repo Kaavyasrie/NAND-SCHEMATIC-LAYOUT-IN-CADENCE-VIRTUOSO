@@ -7,7 +7,7 @@ schematic/ – NAND gate schematic design
 symbol/ – Custom symbol for schematic-level use
 
 layout/ – Complete layout following design rules
-
+ 
 drc_report/ – Clean DRC report
 
 lvs_report/ – Clean LVS report
